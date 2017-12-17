@@ -1,0 +1,12 @@
+{
+  "name": "remote-calling-example",
+  "version": "1.0.0",
+  "description": "A remote-calling example library for a blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/paweljw/remote-calling-example",
+  "author": "Paweł J. Wal <pawel.wal@codesthq.com>",
+  "license": "MIT"
+}
